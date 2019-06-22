@@ -12,7 +12,7 @@ First install OpenCV 3.0+ then compile the program by executing `make`, then run
 For example
 
     ./particle_tracker -o ~/output.avi -p 300 ~/basketball.avi
-After execution the program, a window will appear showing the first frame of the video, use mouse pointer to locate the target (click and drag to draw a bounding box around the target). Once the mouse button is released, the tracking process starts immediately.
+After executing the program, a window will appear showing the first frame of the video, use mouse pointer to locate the target (click and drag to draw a bounding box around the target). Once the mouse button is released, the tracking process starts immediately.
 
 # Further information
 The particle filter framework is originally implemented by Kevin Schluff (https://bitbucket.org/kschluff/particle_tracker). We integrated the saliency-based weighted color histogram into this implementation.
