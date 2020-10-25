@@ -1,8 +1,8 @@
-# Publication  
+# saliency-histogram  
 C++ code for our paper:  
 Single object tracking using particle filter framework and saliency-based weighted color histogram  
 M.T.N. Truong, M. Pak, S. Kim  
-Multimedia Tools and Applications 77 (22), 30067-30088  
+Multimedia Tools and Applications, vol. 77, no. 22, pp. 30067-30088, 2018  
 https://dx.doi.org/10.1007/s11042-018-6180-5
 
 # Usage
