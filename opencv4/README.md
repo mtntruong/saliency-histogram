@@ -5,9 +5,6 @@ M.T.N. Truong, M. Pak, S. Kim
 Multimedia Tools and Applications, vol. 77, no. 22, pp. 30067-30088, 2018  
 https://dx.doi.org/10.1007/s11042-018-6180-5
 
-# Update for OpenCV 4
-To compile the program using OpenCV 4 in more recent systems, please use the source codes in the folder `opencv4`.
-
 # Usage
 First install OpenCV 3.0+ then compile the program by executing `make`, then run the program using this syntax
 
